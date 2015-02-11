@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/degradado"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_horizontal"
+            android:text="Solobici Didáctico"
+            android:textColor="#FF0000"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight=".5"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/Boton01"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jugar" />
+
+        <Button
+            android:id="@+id/Boton02"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Configurar" />
+
+        <Button
+            android:id="@+id/Boton03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Acerca De" />
+
+        <Button
+            android:id="@+id/Boton05"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Puntuaciones" />
+
+        <Button
+            android:id="@+id/Boton04"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salir" />
+
+    </LinearLayout>
+</LinearLayout>

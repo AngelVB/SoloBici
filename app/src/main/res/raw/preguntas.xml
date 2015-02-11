@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <preguntas>
+        <pregunta>
+            <enunciado>pregunta 1_PROGRAMACION</enunciado>
+            <respuesta1>respuesta1</respuesta1>
+            <respuesta2>respuesta2_ok</respuesta2>
+            <respuesta3>respuesta3</respuesta3>
+            <respuesta4>respuesta4</respuesta4>
+            <correcta>2</correcta>
+        </pregunta>
+        <pregunta>
+            <enunciado>pregunta 2_PROGRAMACION</enunciado>
+            <respuesta1>respuesta1_ok</respuesta1>
+            <respuesta2>respuesta2</respuesta2>
+            <respuesta3>respuesta3</respuesta3>
+            <respuesta4>respuesta4</respuesta4>
+            <correcta>1</correcta>
+        </pregunta>
+    </preguntas>
+

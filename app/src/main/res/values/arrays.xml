@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string-array name="tiposPreguntas">
+        <item>Todas</item>
+        <item>Ninguna</item>
+        <item>Bases de datos</item>
+        <item>Programación</item>
+        <item>Redes</item>
+    </string-array>
+    <string-array name="tiposPreguntasValores">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="tiposConexion">
+        <item>Bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>Internet</item>
+    </string-array>
+    <string-array name="tiposConexionValores">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+</resources>
